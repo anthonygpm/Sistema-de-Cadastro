@@ -1,0 +1,2 @@
+1234;Playstation 5;3400.0;3
+1235;Monitor gamer;1200.0;4
